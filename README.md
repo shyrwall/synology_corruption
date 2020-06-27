@@ -64,13 +64,9 @@ Obvious tests i should have tried from the start coming soon..
 
 A hexdump comparison of an original file and a failed file in Test 4 shows the following,
 
-57133510c57133510
 < 367c9c50 6152 4b26 0f86 f883 946f 70ef 68e5 24c7
 ---
 > 367c9c50 e152 4b26 0f86 f883 946f 70ef 68e5 24c7
-
-Another file shows,
-
 
 
 
