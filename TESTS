@@ -61,6 +61,15 @@ Test Control
         PASS: All files matched
 
 
+Test A 
+
+	Same as Test 7 but the script to generate the files was done locally on the Synology on the single drive. 
+	Then copied to the same volume as in Test 1-4
+
+
+	FAIL: Test had 4% of the files (4/100) fail.
+
+	This now excludes all form of network related issues or anything outside the box
 
 ----
 
