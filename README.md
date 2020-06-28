@@ -1,5 +1,7 @@
 Synology Corruption Test
 
+UPDATE 200629 : Problem seems related to sparse files. Files copied with "cp --sparse=never" does not get corrupted.
+		  Also. EXT3 (manual mkfs on the Synologies) do not suffer from the corruption.
 
 See https://www.reddit.com/r/synology/comments/hgp5mj/data_corruption/ for backstory
 
